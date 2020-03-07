@@ -9,7 +9,7 @@ Fillit est un projet vous permettant de decouvrir et/ou de vous familiariser ave
 * make
 * ./fillit source_file
 
-## Author
+## Authors
 
-flafonso
-adietric
+* flafonso
+* adietric
